@@ -1,4 +1,4 @@
-package com.example.solana_flutter
+package com.example.kanz
 
 import io.flutter.embedding.android.FlutterFragmentActivity
 import io.flutter.embedding.engine.FlutterEngine
